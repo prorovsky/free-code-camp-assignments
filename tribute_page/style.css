@@ -1,0 +1,18 @@
+body {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    background-color: rgb(230, 220, 220);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+hr {
+    border-color: black;
+}
+
+.link {
+    text-align: center;
+}
